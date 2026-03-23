@@ -113,10 +113,3 @@ Opens at `http://localhost:8501`
 - Rule-based anomaly detection using per-customer rolling averages
 
 ---
-
-## Live Demo
-[View on Streamlit Community Cloud](#) ← *(update after deployment)*
-
----
-
-*Built as part of a data analyst portfolio targeting roles in financial services.*
